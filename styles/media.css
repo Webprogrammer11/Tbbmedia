@@ -1,0 +1,85 @@
+@media(max-width: 1400px){
+    
+}
+
+
+
+
+@media(max-width: 768px){
+    .header__nav{
+        display: flex;
+        justify-content: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .card__img{
+        width: 450px;
+    }
+    .main__course-bottom{
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .main__course-item{
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .logo{
+        display: block;
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .container{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .header__nav-menu{
+        display: flex;
+        justify-content: center;
+    }
+}
+
+
+
+@media(max-width: 400px){
+    .header__nav{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+
+
+@media(max-width: 968px){
+    .main  container{
+        display: flex;
+        justify-content: center;
+    }
+    .main__view-title{
+        text-align: center;
+        font-size: 45px;
+        line-height: 40px;
+    }
+}
+
+
+@media(max-width: 576px){
+    .main__view-bottom{
+        display: flex;
+        justify-content: center;
+    }
+    .footer__sub{
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .footer__content{
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+}
+
+
+
